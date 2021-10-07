@@ -1,38 +1,28 @@
-html {
-    margin: 0px;
-    padding: 0px;
+* {
+    padding: 10;
+    margin: 10;
 }
 
-#angeles{
-    width: 330px;
-    height: 150px;
+body {
+    background: lightblue;
+}
+
+img {
+    float: left;
+    width: 200px;
+    height: 130px;
     padding: 10px;
 }
 
-#japan{
-    width: 330px;
-    height: 150px;
+.article {
+    height: 135px;
+    width: 400px;
+}
+
+p {
     padding: 10px;
 }
 
-#kat{
-    width: 330px;
-    height: 150px;
-    padding: 10px;
-}
-
-#girona{
-    width: 330px;
-    height: 150px;
-    padding: 10px;
-}
-
-.cities{
-    background-color: #ff8e8d;
-    width: 50%;
-}
-
-.ptext{
-    float: right;
-    width: 30%;
+cos {
+    display: table;
 }
