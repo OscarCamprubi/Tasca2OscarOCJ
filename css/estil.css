@@ -1,0 +1,36 @@
+html {
+    margin: 0px;
+    padding: 0px;
+}
+
+#angeles{
+    padding: 10px;
+}
+
+#japan{
+    width: 330px;
+    height: 150px;
+    padding: 10px;
+}
+
+#kat{
+    width: 330px;
+    height: 150px;
+    padding: 10px;
+}
+
+#girona{
+    width: 330px;
+    height: 150px;
+    padding: 10px;
+}
+
+.cities{
+    background-color: #ff8e8d;
+    width: 50%;
+}
+
+.ptext{
+    float: right;
+    width: 30%;
+}
